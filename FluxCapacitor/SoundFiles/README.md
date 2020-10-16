@@ -8,33 +8,33 @@ The whole directory and file structure should be preserved and everything should
 
 
 * *****************************************************
-* *   folder structure of the Flux Capacitor sounds
+*    Folder structure of the Flux Capacitor sounds
 * *****************************************************
 
 folder 01:
-       sound clips 001.mp3-008.mp3
-       electro-buzz and humming sounds
+       sound clips 001.mp3-008.mp3 -
+       electro-buzz and humming sounds -
        longer clips with constant background noise
 
 folder 02:
-       sound clips 001.mp3-014.mp3
-       electro-buzz and humming sounds
+       sound clips 001.mp3-014.mp3 - 
+       electro-buzz and humming sounds -
        longer clips with aggressive sparking noise
 
 folder 03:
-       sound clips 001.mp3-018.mp3
-       electro-buzz and humming sounds
+       sound clips 001.mp3-018.mp3 - 
+       electro-buzz and humming sounds - 
        short clips with sparking noise
 
 folder 07:
-       sound clips 001.mp3-004.mp3
-       "Back to the Future" movie sound
+       sound clips 001.mp3-004.mp3 -
+       "Back to the Future" movie sound -
        (3x twinkle and "serious shit")
 
 folder 08:
-       sound clips 001.mp3-004.mp3
+       sound clips 001.mp3-004.mp3 - 
        mode announcements
        
 folder 09:
-       sound clips 001.mp3-004.mp3
+       sound clips 001.mp3-004.mp3 -
        volume announcements
