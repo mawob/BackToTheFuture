@@ -6,7 +6,7 @@ These .dxf files work for 3/16" (approx. 5mm) plywood, and 1/8" acrylics (for th
 
 
 
-The enclosure from 3/16" plywood
+>>> The enclosure from 3/16" plywood
 
 flux-back.dxf			back side
 
@@ -28,12 +28,12 @@ flux-acrylic-window-holder.dxf	holder for the acrylic window (not sure if this v
 
 
 
-The acrylic pieces on top of the LED bars - from 1/4" acrylic
+>>> The acrylic pieces on top of the LED bars - from 1/4" acrylic
 
 flux-acrylic-base-1532.dxf
 
 
 
-The window - from 1/8" acrylic
+>>> The window - from 1/8" acrylic
 
 flux-acrylic-window.dxf
