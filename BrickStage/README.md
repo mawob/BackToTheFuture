@@ -8,8 +8,6 @@ The build is documented here:
 
 https://markus-wobisch.blogspot.com/2019/05/brick-stage-marty-doc-back-to-future.html
 
-In action:
-
-https://www.youtube.com/watch?v=2RU9Xlu35uw
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2RU9Xlu35uw/0.jpg)](https://www.youtube.com/watch?v=2RU9Xlu35uw)
 
 ![Image](Pictures/IMGP7237.JPG)
